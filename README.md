@@ -19,3 +19,5 @@ Step 7: Make sure to edit code to type in your desired sample size, sample rate 
 Step 8: The final data will be exported to a .csv. If you are unable to find it, just type in the csv's name in your computer's search bar and the location will appear.
 
 Step 9: You cannot overwrite documents so each time you want to export to csv, change the csv's target name.
+
+SEE ALSO: s-tariq92/Download-Spotify-API-song-features-from-playlist
